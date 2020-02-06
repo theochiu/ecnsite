@@ -1,7 +1,4 @@
----
-
 port: 3000
-safe: false
 
 
 ### site serving configuration ###
@@ -14,12 +11,14 @@ markdown: kramdown
 
 ### content configuration ###
 title: Theodore Chiu
+author: Theodore Chiu
+
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "Theodore Chiu Purdue Engineering"
 source_link: "https://engineering.purdue.edu/~chiu42"
-favicon:     "img/favicon.ico"
+# favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+# google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
@@ -35,3 +34,9 @@ colors:
 kramdown:
   auto_ids:  false
 
+# social
+email: theochiu.me@gmail.com
+github_username: theochiu
+facebook_username: theochiu98
+linkedin_username: theochiu
+instagram_username: theochiu98
