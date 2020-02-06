@@ -1,5 +1,6 @@
 #!/bin/bash
 
-echo "rendering... \n"
+echo "rendering..."
+echo
 cp -a jekyll/_site/. $(pwd)
 echo "done"
