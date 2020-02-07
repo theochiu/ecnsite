@@ -5,7 +5,7 @@ color: white
 fa-icon: graduation-cap
 ---
 
-## Electrical and Computer Engineering Courses
+## _Electrical and Computer Engineering Courses_
  - __ECE 473: Introduction to AI__
  - __ECE 362: Microprocessor Systems and Interfacing__
  - __ECE 301: Signals and Systems__
@@ -17,13 +17,13 @@ fa-icon: graduation-cap
  - ECE 202: Linear Circuit Analysis &#8545;
  - ECE 201: Linear Circuit Analysis &#8544;
 
-## Mathematics Courses
+## _Mathematics Courses_
  - MA 266: Ordinary Differential Equations
  - MA 265: Linear Algebra
  - MA 261: Multivariate Calculus
  - MA 161: Calculus &#8544;
 
-## Other
+## _Other_
  - PHYS 172: Modern Mechanics
  - PHYS 227: Electro Magnetic Interactions
  - BIOL 131: Developmental Structures and Functions
