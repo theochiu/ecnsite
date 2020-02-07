@@ -25,7 +25,7 @@ fa-icon: graduation-cap
 
 ## _Other_
  - PHYS 172: Modern Mechanics
- - PHYS 227: Electro Magnetic Interactions
+ - PHYS 272: Electric & Magnetic Interactions
  - BIOL 131: Developmental Structures and Functions
  - __MUS 261: Fundamentals Of Music__
 

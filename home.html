@@ -9,7 +9,7 @@
 
 <div class="container">
 
-    <div>
+    <div class="row shrink-social">
       <ul class="list-inline text-center">
         
         <li class="list-inline-item" style="margin-right:0px;">
@@ -63,8 +63,8 @@
         </li>
         
       </ul>
-      <p class="copyright text-muted">Copyright &copy; Theodore Chiu 2020</p>
     </div>
+      <p class="copyright text-muted">Copyright &copy; Theodore Chiu 2020</p>
 
   </div>
 
@@ -82,5 +82,19 @@
       display: inline-block;
     }
 
+    @media only screen and (max-width: 400px) {
+      .shrink-social {
+        font-size:5vw;
+      }
+    }
+
+
+    .list-inline {
+      margin: 0;
+      padding: 0;
+      padding-left: 0;
+    }
+
+  
   </style>
 

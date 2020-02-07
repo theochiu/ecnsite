@@ -64,12 +64,12 @@
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300; }
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
-	h1 { font-size: 46px; line-height: 50px; margin-bottom: 14px;}
-	h2 { font-size: 35px; line-height: 40px; margin-bottom: 10px; }
-	h3 { font-size: 28px; line-height: 34px; margin-bottom: 8px; }
-	h4 { font-size: 21px; line-height: 30px; margin-bottom: 4px; }
-	h5 { font-size: 17px; line-height: 24px; }
-	h6 { font-size: 14px; line-height: 21px; }
+	h1 { font-size: 50px; line-height: 50px; margin-bottom: 14px;}
+	h2 { font-size: 39px; line-height: 40px; margin-bottom: 10px; }
+	h3 { font-size: 32px; line-height: 34px; margin-bottom: 8px; }
+	h4 { font-size: 25px; line-height: 30px; margin-bottom: 4px; }
+	h5 { font-size: 21px; line-height: 24px; }
+	h6 { font-size: 18px; line-height: 21px; }
 	.subheader { color: #777; }
 
 	p { margin: 0 0 20px 0; }
@@ -100,14 +100,14 @@
 /* #Lists
 ================================================== */
 	ul, ol { margin-bottom: 20px; }
-	ul { list-style: none outside; }
+	ul { list-style: none outside; margin-top: 10px;}
 	ol { list-style: decimal; }
 	ul, ul.square { list-style: square outside; }
 	ul ul, ul.circle { list-style: circle outside; }
 	ul ul ul, ul.disc { list-style: disc outside; }
 	ul ul li, ul ol li,
 	ol ol li, ol ul li { margin-bottom: 6px; }
-	li { line-height: 18px; margin-bottom: 12px; }
+	li { line-height: 22px; margin-bottom: 12px; }
 	ul.large li { line-height: 21px; }
 	li p { line-height: 21px; }
 
@@ -587,7 +587,7 @@ hr {
   padding: 0 4%;
 }
 .container p, .container ol, .container ul {
-  font-size: 17px;
+  font-size: 22px;
   padding: 0 5%;
 }
 .container ol, .container ul { padding: 0 8%; }
@@ -654,7 +654,7 @@ nav ul li {
   line-height:normal;
   letter-spacing:normal;
   text-transform:uppercase;
-  min-width:110px;
+  min-width:180px;
   line-height:60px;
   margin:0;
 }
@@ -700,7 +700,7 @@ nav ul li:hover, nav ul li.active {
   background-color:#2e2e2e;
   background-image:none;
 }
-#footer .container p { font-size:13px; margin:0; }
+#footer .container p { font-size:17px; margin:0; }
 
 .subtlecircle {
   text-align:center;
