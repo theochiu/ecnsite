@@ -1,5 +1,5 @@
 ---
-title: "Eduaction"
+title: "Education"
 bg: '#63BD2F'
 color: white
 fa-icon: graduation-cap
