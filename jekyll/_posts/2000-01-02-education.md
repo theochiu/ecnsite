@@ -7,7 +7,7 @@ fa-icon: graduation-cap
 
 ## _Electrical and Computer Engineering Courses_
  - ECE 473: Introduction to AI
- - __ECE3 9595: Object-Oriented Programming with Java__
+ - __ECE 39595: Object-Oriented Programming with Java__
  - ECE 362: Microprocessor Systems and Interfacing
  - __ECE 337: ASIC Design__
  - __ECE 302: Probabilistic Methods in Electrical and Computer Engineering__
