@@ -6,9 +6,12 @@ fa-icon: graduation-cap
 ---
 
 ## _Electrical and Computer Engineering Courses_
- - __ECE 473: Introduction to AI__
- - __ECE 362: Microprocessor Systems and Interfacing__
- - __ECE 301: Signals and Systems__
+ - ECE 473: Introduction to AI
+ - __ECE3 9595: Object-Oriented Programming with Java__
+ - ECE 362: Microprocessor Systems and Interfacing
+ - __ECE 337: ASIC Design__
+ - __ECE 302: Probabilistic Methods in Electrical and Computer Engineering__
+ - ECE 301: Signals and Systems
  - ECE 368: Data Structures
  - ECE 264: Advanced C Programming
  - ECE 270: Digital Systems Design
@@ -27,7 +30,9 @@ fa-icon: graduation-cap
  - PHYS 172: Modern Mechanics
  - PHYS 272: Electric & Magnetic Interactions
  - BIOL 131: Developmental Structures and Functions
- - __MUS 261: Fundamentals Of Music__
+ - __MUS 361: Music Theory &#8544;__
+ - MUS 261: Fundamentals Of Music
+ - __ECON 210: Principles of Economics__
 
 
 <small>bold indicate current courses</small>
