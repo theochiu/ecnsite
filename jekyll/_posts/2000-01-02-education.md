@@ -6,11 +6,14 @@ fa-icon: graduation-cap
 ---
 
 ## _Electrical and Computer Engineering Courses_
+ - __ECE 477: Senior Design for Computer Engineers__
  - ECE 473: Introduction to AI
- - __ECE 39595: Object-Oriented Programming with Java__
+ - __ECE 469: Operating Systems Engineering__
+ - ECE 39595: Object-Oriented Programming with Java
+ - __ECE 369: Discrete Mathematics for Computer Engineering__
  - ECE 362: Microprocessor Systems and Interfacing
- - __ECE 337: ASIC Design__
- - __ECE 302: Probabilistic Methods in Electrical and Computer Engineering__
+ - ECE 337: ASIC Design
+ - ECE 302: Probabilistic Methods in Electrical and Computer Engineering
  - ECE 301: Signals and Systems
  - ECE 368: Data Structures
  - ECE 264: Advanced C Programming
@@ -27,12 +30,14 @@ fa-icon: graduation-cap
  - MA 161: Calculus &#8544;
 
 ## _Other_
+ - __EEE 350: Introduction to Environmental Engineering__
  - PHYS 172: Modern Mechanics
  - PHYS 272: Electric & Magnetic Interactions
  - BIOL 131: Developmental Structures and Functions
- - __MUS 361: Music Theory &#8544;__
+ - MUS 361: Music Theory &#8544;
  - MUS 261: Fundamentals Of Music
- - __ECON 210: Principles of Economics__
+ - __MUS 250: Music Appreciation__
+ - ECON 210: Principles of Economics
 
 
 <small>bold indicate current courses</small>
