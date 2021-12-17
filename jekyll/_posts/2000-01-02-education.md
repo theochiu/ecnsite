@@ -6,9 +6,14 @@ fa-icon: graduation-cap
 ---
 
 ## _Electrical and Computer Engineering Courses_
- - __ECE 473: Introduction to AI__
- - __ECE 362: Microprocessor Systems and Interfacing__
- - __ECE 301: Signals and Systems__
+ - ECE 477: Senior Design
+ - ECE 473: Introduction to AI
+ - ECE 469: Operating Systems
+ - ECE 463: Computer Networks
+ - ECE 40862: Software for Embedded Systems
+ - ECE 362: Microprocessor Systems and Interfacing
+ - ECE 301: Signals and Systems
+ - ECE 369: Discrete Math
  - ECE 368: Data Structures
  - ECE 264: Advanced C Programming
  - ECE 270: Digital Systems Design
@@ -27,7 +32,11 @@ fa-icon: graduation-cap
  - PHYS 172: Modern Mechanics
  - PHYS 272: Electric & Magnetic Interactions
  - BIOL 131: Developmental Structures and Functions
- - __MUS 261: Fundamentals Of Music__
+ - MUS 261: Fundamentals Of Music
+ - EEE 350: Intro to Environmental and Ecological Engineering
+ - MUS 250: Music Appreciation
+ - HIST 371: Society & Rock & Roll
+ - NUTR 303: Essentials of Nutrition
 
 
-<small>bold indicate current courses</small>
+<small>* courses completed as of 2021 from Purdue University</small>

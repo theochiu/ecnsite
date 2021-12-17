@@ -5,6 +5,9 @@ color: white
 fa-icon: briefcase
 ---
 
+- __[Luna Innovations](https://lunainc.com/)__ <br />
+	* I will be joining Luna as a systems engineer following graduation!
+
 - __[Heroes Jobs](https://heroes.jobs)__ <br />
 	* I worked as a CS intern in a fast paced startup environment.
 	* I created web scraping and profiling scripts to help acquire
