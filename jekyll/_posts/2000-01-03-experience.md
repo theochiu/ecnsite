@@ -6,7 +6,7 @@ fa-icon: briefcase
 ---
 
 - __[Luna Innovations](https://lunainc.com/)__ <br />
-	* I will be joining Luna as a systems engineer following graduation!
+	* I will be joining Luna as a [systems engineer](https://en.wikipedia.org/wiki/Systems_engineering) January 2022. 
 
 - __[Heroes Jobs](https://heroes.jobs)__ <br />
 	* I worked as a CS intern in a fast paced startup environment.
